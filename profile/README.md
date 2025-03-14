@@ -10,13 +10,10 @@ Make an attendance system that will be used by many people to make their lives e
 - [ ]  iOS Client for Kids to enter
 
 
-## Timeline
+## System Diagram
 
-Have to finish by the end of Jan.
+![image](https://github.com/user-attachments/assets/37c39690-6caa-4a16-9492-aaac5e3ef316)
 
-Jan 3rd week (14-21): 
-
-Jan 4th week (21-31):
 
 
 
