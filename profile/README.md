@@ -5,8 +5,11 @@ Make an attendance system that will be used by many people to make their lives e
 
 ### 🎬 Video Demos (Click on the images to play the videos!)
 
+Web App demo:
 [![Watch Video 1](https://drive.google.com/thumbnail?id=1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e)](https://drive.google.com/file/d/1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e/view?usp=sharing)
 
+
+Mobile App demo:
 [![Watch Video 2](https://drive.google.com/thumbnail?id=1ASoqna3TvFBXfvJG-bCMzCTBgNPfLpPZ)](https://drive.google.com/file/d/1ASoqna3TvFBXfvJG-bCMzCTBgNPfLpPZ/view?usp=sharing)
 
 
