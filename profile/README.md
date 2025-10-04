@@ -3,7 +3,7 @@
 Make an attendance system that will be used by many people to make their lives easier.
 
 
-### 🎬 Video Demos
+### 🎬 Video Demos (Click on the images to play the videos!)
 
 [![Watch Video 1](https://drive.google.com/thumbnail?id=1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e)](https://drive.google.com/file/d/1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e/view?usp=sharing)
 
