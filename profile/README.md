@@ -3,11 +3,21 @@
 Make an attendance system that will be used by many people to make their lives easier.
 
 
+### 🎬 Video Demos
+
+[![Watch Video 1](https://drive.google.com/thumbnail?id=1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e)](https://drive.google.com/file/d/1oJvWOmpEgcPAmkap66ZhCYXhE2tT8F0e/view?usp=sharing)
+
+[![Watch Video 2](https://drive.google.com/thumbnail?id=1ASoqna3TvFBXfvJG-bCMzCTBgNPfLpPZ)](https://drive.google.com/file/d/1ASoqna3TvFBXfvJG-bCMzCTBgNPfLpPZ/view?usp=sharing)
+
+
+
+
 ### Things we have to build:
 
 - [ ]  Web-app for Prof to Project on Digital Smart TV
 - [ ]  Android Client for Kids to enter numbers
 - [ ]  iOS Client for Kids to enter
+
 
 
 ## System Diagram
